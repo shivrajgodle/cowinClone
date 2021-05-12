@@ -1,0 +1,70 @@
+
+.header{
+    height: 90vh;
+    width: 100%;
+   
+    color: white;
+  
+    /* background: linear-gradient(to right,rgb(102, 10, 177),rgba(241, 66, 66, 0.2)) , url(https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    background: linear-gradient(to right,rgb(102, 10, 177),rgba(241, 66, 66, 0.2));
+    background-size: cover;
+}
+
+.banner-image[_ngcontent-qhc-c69] {
+    width: 100%;
+    height: auto;
+    display: block;
+    background-size: cover;
+}
+
+.services{
+    height: 95vh;
+    width: 100%;
+   
+    color: green;
+  
+    /* background: linear-gradient(to right,rgb(102, 10, 177),rgba(241, 66, 66, 0.2)) , url(https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    background: linear-gradient(to right,rgb(126, 143, 170),rgba(170, 175, 171, 0.2));
+    /* background-size: cover; */
+}
+
+.contact{
+    height: 50vh;
+    width: 100%;
+   
+    color: maroon;
+  
+    /* background: linear-gradient(to right,rgb(102, 10, 177),rgba(241, 66, 66, 0.2)) , url(https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    background: linear-gradient(to right,rgb(25, 102, 226),rgba(99, 143, 107, 0.2));
+    /* background-size: cover; */
+}
+
+
+
+
+.howitworkblock[_ngcontent-hkk-c69] {
+    background: #fdbc00 url(https://prod-cdn.preprod.co-vin.in/assets/images/Vectorbg.png);
+    padding: 10px 0;
+    color: #000;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+ 
+.user-manual-link[_ngcontent-hkk-c69] {
+    margin-top: 10px;
+    font-size: 21px;
+    color: #002060;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+.myicon{
+    font-size: 60px;
+    padding: 20px;
+}
+body{
+    font-family: 'New Tegomin', serif;
+font-family: 'Noto Serif', serif;
+}
